@@ -1,0 +1,33 @@
+header{
+    background-color: #ffc107;
+    
+}
+header h5{
+    
+}
+.settings-font{
+}
+.settings-font-align{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+.test{
+    
+    height: 120px;
+        
+    width: 100%;
+    background: #efdda7;
+    text-align: center;
+    }
+.todays-sale{
+    height: 120px;
+    width: 100%;
+    background-color: #ffbf00;
+    text-align: center;
+}
+.todays-sale h3{
+    display:block;
+}
+.test2{
+}
